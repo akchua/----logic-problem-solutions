@@ -1,5 +1,10 @@
 package com.test.optimal_intelligence;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class BoardUtil
 {
 	public static int[] reverseBoard(int[] toRev)

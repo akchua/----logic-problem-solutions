@@ -2,8 +2,13 @@ package com.test.compilation;
 
 import java.awt.Dimension;
 
-import javax.swing.*;
+import javax.swing.JFrame;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class MainGUI
 {
 	public static void main(String ... args)

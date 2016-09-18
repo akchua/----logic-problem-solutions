@@ -1,5 +1,10 @@
 package com.test.single_class;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class AsteriskPrinter
 {
 	private int width;

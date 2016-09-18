@@ -2,6 +2,11 @@ package com.test.optimal_intelligence;
 
 import java.util.Stack;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class Player
 {
 	private static Stack<Integer> memory3 = new Stack<Integer>();

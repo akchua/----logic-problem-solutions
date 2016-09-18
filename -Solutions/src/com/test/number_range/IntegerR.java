@@ -1,5 +1,10 @@
 package com.test.number_range;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class IntegerR
 {
 	/**

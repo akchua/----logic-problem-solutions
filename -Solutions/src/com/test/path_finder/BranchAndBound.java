@@ -1,7 +1,12 @@
 package com.test.path_finder;
 
-import java.util.*;
+import java.util.HashSet;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class BranchAndBound
 {
 	private DistanceMatrix distance;

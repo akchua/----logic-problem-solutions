@@ -3,6 +3,11 @@ package com.test.path_finder;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class PathFinder
 {
 	private Graph graph;

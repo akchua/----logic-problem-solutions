@@ -1,7 +1,12 @@
 package com.test.doublet;
 
-import java.util.*;
+import java.util.ArrayList;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class Node
 {
 	private boolean visited;

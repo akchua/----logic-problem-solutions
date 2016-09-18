@@ -1,13 +1,29 @@
 package com.test.compilation;
 
-import java.awt.*;
-import java.awt.event.*;
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.Dimension;
+import java.awt.FlowLayout;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
-import javax.swing.*;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JTextArea;
 
-import com.test.number_range.*;
-import com.test.single_class.*;
+import com.test.number_range.NumberRange;
+import com.test.single_class.AsteriskPrinter;
+import com.test.single_class.ExpressionParser;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class CompilationGUI extends JFrame implements ActionListener
 {
 	private static final long serialVersionUID = 1L;

@@ -1,5 +1,10 @@
 package com.test.path_finder;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class DistanceMatrix
 {
 	private int[][] matrix;

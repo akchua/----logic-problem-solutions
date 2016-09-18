@@ -1,7 +1,13 @@
 package com.test.doublet;
 
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class PathFinder
 {
 	private Graph graph;

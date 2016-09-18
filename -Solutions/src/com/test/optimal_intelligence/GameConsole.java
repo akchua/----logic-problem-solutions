@@ -1,7 +1,12 @@
 package com.test.optimal_intelligence;
 
-import java.util.*;
+import java.util.Arrays;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class GameConsole
 {
 	public static int NOPLAYER = 0;

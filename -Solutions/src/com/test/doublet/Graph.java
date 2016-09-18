@@ -1,7 +1,15 @@
 package com.test.doublet;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Stack;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class Graph
 {
 	private Map<String, Node> library;

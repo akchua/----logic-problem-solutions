@@ -1,7 +1,12 @@
 package com.test.path_finder;
 
-import java.util.*;
+import java.util.ArrayList;
 
+/**
+ * 
+ * @author Adrian Jasper K. Chua
+ *
+ */
 public class Node
 {
 	private boolean treasure;
